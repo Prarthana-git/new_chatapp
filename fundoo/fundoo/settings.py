@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'Prarthana',
         'USER': 'admin',
         'PASSWORD': 'qwerty1234',
-        'HOST': 'database-2.cqm44bwx0bgz.us-east-1.rds.amazonaws.com',
+        'HOST': 'database-1.cqm44bwx0bgz.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
